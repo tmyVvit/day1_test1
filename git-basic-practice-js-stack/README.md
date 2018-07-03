@@ -1,7 +1,9 @@
 # Git Basic Practice
+
 本项目用与Git基础命令训练。
 
 ## 使用方法
+
 1. Clone此项目到目的
 2. 删除.git目录
 3. 初始化本地仓库
@@ -12,7 +14,8 @@
 8. 本地获同步最新版本仓库
 
 ## 作业要求
+
 1. 使用命令行完成相关操作；
 2. 使用Git管理代码时请尽可能的遵照[Git使用的最佳实践](https://github.com/iamcoach/git)。
 
-###hello
+### hello
